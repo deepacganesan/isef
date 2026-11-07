@@ -4,3 +4,14 @@ caueeg-dataset/
 tvb-root/
 .venv/
 
+# CAUEEG data and anything derived from it (data use terms: no redistribution)
+*.edf
+*.npz
+*.npy
+*.zip
+*.fif
+features/
+binary*/
+*_qc.png
+qc_summary.csv
+summary.csv
