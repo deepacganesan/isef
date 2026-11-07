@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+caueeg-dataset/
+tvb-root/
+.venv/
+
