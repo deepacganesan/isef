@@ -1,0 +1,13 @@
+# CAUEEG data and anything derived from it (data use terms: no redistribution)
+*.edf
+*.npz
+*.npy
+*.zip
+*.fif
+features/
+binary*/
+caueeg-dataset/
+*_qc.png
+qc_summary.csv
+summary.csv
+__pycache__/
