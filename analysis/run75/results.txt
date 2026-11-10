@@ -1,0 +1,7 @@
+pairs used: 25 (needed 25); training controls: 25 (needed 25)
+replaced pairs: []
+
+basin radius R (primary): AD median 0.225 vs HC 0.134; one-sided Mann-Whitney (AD < HC) p = 0.9942; rank-biserial r = +0.41
+depth dV (secondary): AD median 1.212 vs HC 0.725; one-sided Mann-Whitney (AD < HC) p = 0.9997; rank-biserial r = +0.56
+theta/alpha (baseline): AD median 0.800 vs HC 0.469; one-sided Mann-Whitney (AD > HC) p = 0.0015; rank-biserial r = +0.49
+added value of R beyond theta/alpha: likelihood-ratio = 1.53, p = 0.2160; coefficient of R (standardized) = +0.48
